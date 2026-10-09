@@ -1,0 +1,9 @@
+# Secrets: never commit your AWS keys
+.env
+
+# Python
+.venv/
+__pycache__/
+
+# Windows download markers
+*:Zone.Identifier
